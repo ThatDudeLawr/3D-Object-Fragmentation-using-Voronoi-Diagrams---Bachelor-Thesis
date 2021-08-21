@@ -1,2 +1,2 @@
-# 3D Object Fragmentation using Voronoi Diagrams - Bachellor Thesis
+# 3D Object Fragmentation using Voronoi Diagrams - Bachelor Thesis
  
